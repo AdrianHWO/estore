@@ -8,7 +8,7 @@ phone.py: A Subclass that inherits from Item, adding specific features like "bro
 
 items.csv: The database layer where all product information is stored and retrieved.
 
-🛠️ Key OOP Concepts Applied
+Key OOP Concepts Applied
 This project isn't just a script; it’s a demonstration of professional coding patterns:
 
 Inheritance: The Phone class inherits all functionality from Item but adds its own unique logic, reducing code duplication.
